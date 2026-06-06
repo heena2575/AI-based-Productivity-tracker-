@@ -1,2 +1,2 @@
 # AI-based-Productivity-tracker-
-An AI-powered application to track tasks, productivity, and progress efficiently.
+The AI-Based Productivity Tracker is a smart application designed to help users manage their daily tasks and improve productivity. It uses Artificial Intelligence to analyze task completion patterns, track progress, and provide useful suggestions for better time management. The system helps users stay organized, prioritize important tasks, and achieve their goals more efficiently. By monitoring productivity trends, it enables users to make better decisions and enhance their overall performance.
